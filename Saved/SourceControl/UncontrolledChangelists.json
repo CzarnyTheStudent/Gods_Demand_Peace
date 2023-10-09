@@ -6,10 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"Y:/Unreal Engine projekty/Gods_Demand_Peace/Content/Level/Test.umap",
-				"Y:/Unreal Engine projekty/Gods_Demand_Peace/Content/Test.umap",
 				"Y:/Unreal Engine projekty/Gods_Demand_Peace/Content/BP_player.uasset",
 				"Y:/Unreal Engine projekty/Gods_Demand_Peace/Content/Blueprints/GameMode.uasset",
 				"Y:/Unreal Engine projekty/Gods_Demand_Peace/Content/Blueprints/BP_GameMode.uasset",
+				"Y:/Unreal Engine projekty/Gods_Demand_Peace/Content/BP_PlayerController.uasset",
+				"Y:/Unreal Engine projekty/Gods_Demand_Peace/Content/Test.umap",
 				"Y:/Unreal Engine projekty/Gods_Demand_Peace/Content/Blueprints/NewBlueprint.uasset",
 				"Y:/Unreal Engine projekty/Gods_Demand_Peace/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset",
 				"Y:/Unreal Engine projekty/Gods_Demand_Peace/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
