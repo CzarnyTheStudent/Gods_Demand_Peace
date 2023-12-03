@@ -1418,3 +1418,595 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.03-19.10.45:094][661]AssetCheck: New page: Asset Save: Test4
 [2023.12.03-19.10.45:094][661]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Test4.Test4
 [2023.12.03-19.10.45:105][662]LogAutomationController: Ignoring very large delta of 2.86 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.03-19.13.48:852][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:853][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:854][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:854][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:855][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:856][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:856][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:857][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:857][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:858][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:859][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:859][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:860][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:861][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:862][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:862][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:863][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:864][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:865][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:865][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:866][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:866][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:867][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:867][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:868][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:869][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:869][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:870][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:870][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:871][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:872][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:872][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:873][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:874][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:875][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:875][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:876][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:877][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:877][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:883][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.13.48:884][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.33.17:934][435]LogViewport: Scene viewport resized to 1450x902, mode Windowed.
+[2023.12.03-19.33.20:896][600]LogMaterial: LandscapeMaterialInstanceConstant_15-SM6-Default: MATSM_D2BE6101BBDD464FA4DA4FFD062CBE0E_PCD3D_SM6_-268646912__BC5N_NoCCBN_NoIris_DEV_SL_LWC2_GV_PreExp_DBuf_UnInt_DXC0_VFO_SKYATM_SKYHF_SLWSMDLT_gs1_sdct_VT-0-0-1-0_DF_MS_T0_MS_T1_VED_Aniso-1_ComprOodle_Compr2_Lev6_ExclNonPipSh-1_LWC-2097152_2344159978DB6FCC63A5C44EA751315CBC3EF5DDED_Num_SM6_FL_0000000d_MFA_00000008_V_B6A0A753ED62499D8F30931E61FCAB05__LANDSCAPE_VISIBILITY__00_0_DB3E993F4E2E98B305AD13B92D8C5DA5_62D973BDAB765EDE016625C5C0BF9591CD7A109D___TLightMapDensityVSFNoLightMapPolicy0_0_058A251A7FBD282E0BF98A401EA3BC4C408635626891C1124EC1B5DB941DF1BA5FABB4BBFA352223F_FHitProxyVS0_0_031CD4BEC083EC5AABC92B5D6C0EACFBA46742582B282128ADBC0C8F2E22B2C5B575EEDED30A8B7B8_FHitProxyPS0_0_0C2B820604C8DF7757F83EC0CC67790418915B0DE2A74A59EB00EA821209C26349094BBB03F4D6ED5_TBasePassPSFNoLightMapPolicy0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E6C8686026B054D9BD961D4C440F5FDD54CA38C07_TDepthOnlyVS<true>0_0_06E7993E54659C6E3E6E5A80B2A1CF73C4A3862492A9A9EB6F6AEC78D04ED0798341235919F1C7EA3_TBasePassPSFCachedPointIndirectLightingPolicySkylight0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737EEA781543209A66E56FAA33319B50428AB09B65E2_TBasePassVSFCachedPointIndirectLightingPolicy0_0_09B25FBD4528C4BB8CC5944C0C133099CCD98D300D1726533EF0C3E687EA7E3E99D89F6645873B5F6_TBasePassPSFCachedPointIndirectLightingPolicy0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E233B673B73AD5C3DA45AB58558A2FEAF1AB5A7AA_FVelocityPS0_0_0EFD1E5AC7AC6021B8CC5706AB190C11D424A9665CC98E6311AC1581B96A09EEE8AE8F6960285B5A2_TLightMapDensityPSFNoLightMapPolicy0_0_058A251A7FBD282E0BF98A401EA3BC4C4086356260E6A1E8C16C0AF9964CF3FEFC1B82F1F3B567770_TBasePassPSFNoLightMapPolicySkylight0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E3C0FD33120C8575A512698C01E1EBF84CB90BE73_TDepthOnlyVS<false>0_0_0E4BEC3AC2ABE0283BB1952B71FCE27DADCCE69C4ACA14F90957AEBF5BC1C2C3E6DB6BC750BA01CCD_FVelocityVS0_0_0EFD1E5AC7AC6021B8CC5706AB190C11D424A9665C043BB9FD7164B6E8DBD4123FD00693BC9B4513E_TBasePassVSFNoLightMapPolicy0_0_09B25FBD4528C4BB8CC5944C0C133099CCD98D3002677AEB94C74F9DCEF44AB17F94D82839B020A23_DepthPosOnlyNoPixelPipeline6E7993E54659C6E3E6E5A80B2A1CF73C4A386249_VelocityPipeline18600EF5498F16C26DBD4EC5E6B65ECB6A44FBB4_DepthNoPixelPipelineE4BEC3AC2ABE0283BB1952B71FCE27DADCCE69C4_FLocalVertexFactoryE80F5991FB4AFA1D421CB5E23A292E1A7A72704081418F8992AC49B8E2AFD31AF3B57530A23E085E81418F8992AC49B8E2AFD31AF3B57530A23E085E81418F8992AC49B8E2AFD31AF3B57530A23E085E1964101414144444144414441414141414444474010101010101311160512141414142402414141414141313304444444044444444444424341414141415101000313131312331314343414341314231214440444441313131314440310101015101010101303434344414444444441415151510103001013115161616160240404040404040404040404040404040434343434344444444444444444040404040404044444444404040404444444444443444444444444221414144444442414141444144414141414131313131313141414443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414441413141432444444444414121434341414131414141414122414343424241434343414341414441313131313144424441214144313131414444434121212121243134414116404444141500515151516161616161010101010151514012121316161616363161611100410101010101010101510101010101010143141500010101010101010101010101010101010101014042121313134414101010101610101010101013101000010121010101015101210140444444043424044424141315004444444444443434101313133214030404040434144434143314433414331433143414341433143314331422141413144314412164444444444044464444440444044401015101510151011010101010101010101010101000010101010101014444424231310101404444444444444444444444444444444444444444444444444444444444444444444444444404313131312121313122222222010101010101101010101040442424141412101010101010101014141010151010101000404444445151010100040404040404040404040404040404343434343434344444343434340404040404040434343434040404044444242444444443444444242414121444444424141414341414141414141414131313131313144434444444441414141414141414141414143434344444444444443444044414141414441414141414143414141444141414144444141414141413341442444444141414323414141414131414141424123434242414343434143414144414141313131343244414141244141313134444341414121212421213131414101015151515151515151515101010101010101010151515151510151015101510151015101010101010101510161616161615101510151015101510151015101510151013131515151510151010151016461414154014151010161617161636340431313131313131314422223141414101010101010000110000001300000013000000130000001300000013000000130000001400000009000000140000001000000008000000090000000800000024000000100000001000000013000000090000000800000008000000100000001000000010000000100000000800000008000000080000001000000010000000CF00000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000130000000800000010000000080000000800000008000000080000000800000008000000140000001100000013000000130000001300000013000000130000001300000013000000130000000800000010000000110000000900000008000000090000000800000008000000130000000900000008000000090000000800000009000000080000000C00000009000000080000000900000009000000090000000900000009000000080000000800000008000000080000000800000016000000100000001000000010000000100000000900000009000000090000000900000009000000100000001000000010000000100000000B00000013000000130000000900000009000000090000001400000008000000100000000D0000000C00000010000000080000000800000029000000100000001000000010000000100000001000000010000000100000000900000009000000080000000800000008000000080000000D00000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000F00000009000000080000000900000008000000090000000C00000008000000130000001300000026000000120000000900000009000000090000000900000009000000100000001D000000130000001300000013000000130000001300000009000000080000000900000008000000090000000800000009000000080000001400000014000000080000001000000009000000080000001300000008000000100000000800000008000000310100001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A8990000000000000000000000000000000000000000EFE2B2BFD689FE76C1B7EF7C7E404AB24393F749_101_101_5;
+[2023.12.03-19.33.20:903][600]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_15 in PCD3D_SM6, Default, SM6 (DDC key hash: a9e2724d035cfe6d642c9e922c88d3442bba8117), compiling. Is special engine material.
+[2023.12.03-19.33.22:938][600]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.12.03-19.33.24:899][600]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002063s (1.964518s overbudget)
+[2023.12.03-19.33.24:902][600]LogShaderCompilers: Display: ================================================
+[2023.12.03-19.33.24:902][600]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.03-19.33.24:902][600]LogShaderCompilers: Display: Total job queries 153, among them cache hits 7 (4.58%)
+[2023.12.03-19.33.24:902][600]LogShaderCompilers: Display: Tracking 146 distinct input hashes that result in 95 distinct outputs (65.07%)
+[2023.12.03-19.33.24:902][600]LogShaderCompilers: Display: RAM used: 2,33 MiB of 1,00 GiB budget. Usage: 0.23%
+[2023.12.03-19.33.24:902][600]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.03-19.33.24:902][600]LogShaderCompilers: Display: Shaders Compiled: 131
+[2023.12.03-19.33.24:902][600]LogShaderCompilers: Display: Jobs assigned 131, completed 131 (100.00%)
+[2023.12.03-19.33.24:902][600]LogShaderCompilers: Display: Average time worker was idle: 35.44 s
+[2023.12.03-19.33.24:902][600]LogShaderCompilers: Display: Time job spent in pending queue: average 18.57 s, longest 39.75 s
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: Job execution time: average 1.01 s, max 5.93 s
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: Job life time (pending + execution): average 19.58 s, max 40.57
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 44.53 s
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: Jobs were issued in 131 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: Average processing rate: 2.94 jobs/sec
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: Total thread time: 100,583 s
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: Total thread preprocess time: 2,943 s
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: Percentage time preprocessing: 2.93%
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: Effective parallelization: 2.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    3 times, average 1.30 sec, max 2.14 sec, min 0.83 sec)
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 1.28 sec, max 2.01 sec, min 0.85 sec)
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 1.22 sec, max 1.88 sec, min 0.85 sec)
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 1.20 sec, max 1.81 sec, min 0.88 sec)
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    3 times, average 1.14 sec, max 1.72 sec, min 0.85 sec)
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.16% of total time (compiled    4 times, average 1.04 sec, max 1.60 sec, min 0.84 sec)
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.08% of total time (compiled    4 times, average 1.02 sec, max 1.58 sec, min 0.83 sec)
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.00% of total time (compiled    4 times, average 1.01 sec, max 1.56 sec, min 0.79 sec)
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.98% of total time (compiled    4 times, average 1.00 sec, max 1.54 sec, min 0.82 sec)
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 3.87% of total time (compiled    3 times, average 1.30 sec, max 2.14 sec, min 0.83 sec)
+[2023.12.03-19.33.24:903][600]LogShaderCompilers: Display: ================================================
+[2023.12.03-19.33.25:011][601]LogAutomationController: Ignoring very large delta of 4.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.03-19.33.44:697][735]LogViewport: Scene viewport resized to 1858x902, mode Windowed.
+[2023.12.03-19.34.01:299][602]LogViewport: Scene viewport resized to 1450x902, mode Windowed.
+[2023.12.03-19.34.44:045][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:056][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:066][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:067][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_3 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:073][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:085][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:096][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:096][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_7 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:101][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:113][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:115][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:127][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_12 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:130][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_13 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:848][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_16 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:862][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_17 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:881][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_18 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:891][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_19 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:896][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_20 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:906][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:917][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:927][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_23 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:933][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_24 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:943][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:952][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_26 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.44:963][100]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_1.Heightmap_28 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.34.45:939][101]LogAutomationController: Ignoring very large delta of 3.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.03-19.35.17:805][706]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.35.17:817][706]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_3 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.35.17:822][706]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.35.17:836][706]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_12 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.35.17:843][706]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_15 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2023.12.03-19.35.19:815][707]LogAutomationController: Ignoring very large delta of 3.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.03-19.35.41:349][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.12.03-19.35.41:352][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Test4" FILE="G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Autosaves/Game/Level/Test4_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.12.03-19.35.44:023][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/Test4_Auto2
+[2023.12.03-19.35.44:023][626]LogSavePackage: Moving 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Test4_Auto201C1476649A8ABDAD5956587E38CB8FD.tmp' to 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Autosaves/Game/Level/Test4_Auto2.umap'
+[2023.12.03-19.35.44:043][626]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Test4' took 2.712
+[2023.12.03-19.35.44:043][626]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.712
+[2023.12.03-19.35.44:122][627]LogAutomationController: Ignoring very large delta of 2.91 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.03-19.36.16:460][182]LogViewport: Scene viewport resized to 1858x902, mode Windowed.
+[2023.12.03-19.36.17:391][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:392][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:393][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:394][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:396][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:397][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:397][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:399][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:399][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:399][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:400][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:401][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:401][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:402][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:404][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:404][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:404][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:405][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:405][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:406][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:407][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:407][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:408][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:409][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:410][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:411][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:411][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:412][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:412][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:413][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:414][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:415][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:415][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:416][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:417][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:417][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:418][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:418][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.17:419][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:633][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:675][347]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:717][352]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:734][354]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:750][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:751][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:767][358]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:768][358]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:769][358]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:793][361]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:794][361]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:795][361]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:811][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:811][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:812][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:828][365]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:845][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:846][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:862][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:878][371]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:895][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:929][377]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:945][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:961][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.19:995][385]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:012][387]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:028][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:045][391]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:087][396]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:112][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:129][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:170][406]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:203][410]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:220][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:387][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:437][438]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:487][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:520][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:537][450]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.20:554][452]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:903][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:904][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:905][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:906][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:906][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:907][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:908][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:908][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:909][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:910][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:910][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:911][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:912][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:912][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:913][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:964][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:980][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:981][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:982][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:998][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.22:999][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:000][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:000][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:001][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:001][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:002][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:003][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:003][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:004][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:004][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:021][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:022][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:022][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:023][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:024][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:025][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:025][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:026][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:027][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:044][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:045][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:045][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:046][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:047][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:047][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:048][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:049][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:050][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:050][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:051][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:051][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:052][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:052][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:071][605]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:071][605]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:072][605]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:072][605]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:073][605]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:083][606]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.23:084][606]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:361][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:362][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:362][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:363][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:364][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:364][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:365][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:366][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:367][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:368][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:368][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:369][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:370][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:370][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:371][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.24:372][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.28:500][914]Cmd: DELETE
+[2023.12.03-19.36.28:500][914]Cmd: ACTOR DELETE
+[2023.12.03-19.36.28:590][914]LogEditorActor: Deleted Actor: Landscape
+[2023.12.03-19.36.29:167][914]LogEditorActor: Deleted Actor: Landscape
+[2023.12.03-19.36.29:725][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.12.03-19.36.29:727][914]LogEditorActor: Deleted 2 Actors (1.226 secs)
+[2023.12.03-19.36.43:386][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:386][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:387][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:388][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:388][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:389][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:390][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:391][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:391][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:394][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:394][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:394][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:395][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:395][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:396][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:397][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:397][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:398][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:398][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:400][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:400][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:401][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:401][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:402][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:402][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:403][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:404][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:404][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:405][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:406][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:406][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:407][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:407][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:408][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:409][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:409][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:410][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:410][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.43:411][613]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:283][661]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:284][661]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:299][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:300][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:301][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:301][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:303][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:319][663]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:341][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:357][665]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:358][665]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:358][665]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:359][665]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:540][675]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:578][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:579][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:580][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:581][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:582][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:597][678]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:598][678]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:614][679]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:616][679]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:616][679]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:834][691]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:855][692]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:855][692]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:893][694]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:894][694]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.44:912][695]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:116][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:117][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:118][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:134][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:135][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:153][708]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:154][708]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:155][708]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:171][709]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:172][709]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:189][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:391][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:392][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:392][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:393][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:413][721]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:431][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:432][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:433][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:461][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:462][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:687][736]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:687][736]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:707][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:726][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.45:726][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.36.49:355][919]LogViewport: Scene viewport resized to 586x284, mode Windowed.
+[2023.12.03-19.37.58:114][917]Cmd: TRANSACTION UNDO
+[2023.12.03-19.37.58:115][917]LogEditorTransaction: Undo Clicking on Elements
+[2023.12.03-19.37.58:258][918]LogViewport: Scene viewport resized to 586x284, mode Windowed.
+[2023.12.03-19.37.58:567][921]Cmd: TRANSACTION UNDO
+[2023.12.03-19.37.58:567][921]LogEditorTransaction: Undo Move Elements
+[2023.12.03-19.38.19:357][502]LogViewport: Scene viewport resized to 1450x902, mode Windowed.
+[2023.12.03-19.38.23:386][709]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.38.23:515][710]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.38.26:565][856]Cmd: TRANSACTION UNDO
+[2023.12.03-19.38.26:565][856]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.12.03-19.38.30:501][999]Cmd: TRANSACTION UNDO
+[2023.12.03-19.38.30:501][999]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.12.03-19.38.30:539][999]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.38.45:379][788]Cmd: TRANSACTION UNDO
+[2023.12.03-19.38.45:380][788]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.12.03-19.38.45:406][788]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.27:978][853]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.27:993][853]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.31:868][934]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.31:881][934]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.38:151][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.03-19.39.38:239][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Test4" FILE="G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.03-19.39.38:294][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.12.03-19.39.38:307][ 55]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.38:318][ 55]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.38:329][ 55]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.38:340][ 55]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.38:351][ 55]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.38:362][ 55]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.38:372][ 55]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.38:383][ 55]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.38:393][ 55]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_24 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.38:403][ 55]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.38:413][ 55]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_26 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.39:356][ 55]LogSavePackage: Moving output files for package: /Game/Level/Test4
+[2023.12.03-19.39.39:357][ 55]LogSavePackage: Moving 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Test4DC3EBBA44CE3A84367261591796163F3.tmp' to 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap'
+[2023.12.03-19.39.39:372][ 55]LogFileHelpers: Saving map 'Test4' took 1.136
+[2023.12.03-19.39.39:441][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.29 sec (total: 3.45 sec)
+[2023.12.03-19.39.39:446][ 55]AssetCheck: New page: Asset Save: Test4
+[2023.12.03-19.39.39:446][ 55]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Test4.Test4
+[2023.12.03-19.39.42:665][250]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_13 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.46:097][331]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_12 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.47:866][366]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.39.47:884][366]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_14 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.40.00:136][973]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.40.19:873][942]LogEditorViewport: Clicking Background
+[2023.12.03-19.40.30:923][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.42.02:033][918]LogDerivedDataCache: C:/Users/Aleksandra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.455 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5909 files in 7535 folders with total size 1196 MiB.
+[2023.12.03-19.49.38:486][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.12.03-19.49.38:491][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Test4" FILE="G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Autosaves/Game/Level/Test4_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.12.03-19.49.38:506][803]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.49.38:520][803]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.49.38:530][803]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_13 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.49.38:538][803]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.49.38:548][803]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_26 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.49.39:496][803]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/Test4_Auto3
+[2023.12.03-19.49.39:496][803]LogSavePackage: Moving 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Test4_Auto3F7616DE146A4A813404780B0C44549B8.tmp' to 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Autosaves/Game/Level/Test4_Auto3.umap'
+[2023.12.03-19.49.39:505][803]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Test4' took 1.038
+[2023.12.03-19.49.39:505][803]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.038
+[2023.12.03-19.56.30:826][365]LogViewport: Scene viewport resized to 1858x902, mode Windowed.
+[2023.12.03-19.56.31:667][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:668][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:668][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:669][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:670][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:670][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:671][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:672][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:672][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:675][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:675][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:675][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:675][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:676][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:677][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:677][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:678][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:679][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:679][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:680][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:680][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:681][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:682][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:682][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:683][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:684][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:685][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:685][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:686][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:687][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:687][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:688][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:688][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:689][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:690][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:690][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:691][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:692][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:693][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:699][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.31:700][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:050][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:051][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:051][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:052][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:053][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:053][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:054][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:055][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:055][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:056][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:056][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:057][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:058][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:058][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:059][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:059][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:060][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:061][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:061][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:062][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:062][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:063][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:064][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:064][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:065][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:066][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:066][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:067][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:068][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:068][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:069][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:069][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:070][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:070][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:071][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:072][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:072][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:073][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:074][523]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:095][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:096][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:630][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:630][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:631][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:632][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:633][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:634][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:634][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:635][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:636][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:637][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:637][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:638][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:639][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.33:639][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.56.42:960][372]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.12.03-19.56.42:976][372]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.12.03-19.56.42:978][372]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Level/Test4.Test4:PersistentLevel.StaticMeshActor_0
+[2023.12.03-19.56.43:066][372]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Level/Test4.Test4:PersistentLevel.StaticMeshActor_0
+[2023.12.03-19.56.43:122][372]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.58.58:442][618]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.58.58:442][618]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.58.58:443][618]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.58.58:444][618]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.58.58:445][618]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.58.58:446][618]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.03-19.59.03:649][896]LogViewport: Scene viewport resized to 586x284, mode Windowed.
+[2023.12.03-19.59.21:658][899]LogViewport: Scene viewport resized to 1450x902, mode Windowed.
+[2023.12.03-19.59.27:830][304]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.59.33:054][495]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.59.45:161][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.03-19.59.45:237][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Test4" FILE="G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.03-19.59.45:253][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.12.03-19.59.45:265][ 38]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.59.45:277][ 38]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.59.45:288][ 38]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.59.45:304][ 38]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.59.45:314][ 38]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.59.45:324][ 38]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.59.46:276][ 38]LogSavePackage: Moving output files for package: /Game/Level/Test4
+[2023.12.03-19.59.46:277][ 38]LogSavePackage: Moving 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Test427A997CF4688A9CA2B9B7792427AF056.tmp' to 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap'
+[2023.12.03-19.59.46:291][ 38]LogFileHelpers: Saving map 'Test4' took 1.056
+[2023.12.03-19.59.46:305][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.14 sec (total: 4.59 sec)
+[2023.12.03-19.59.46:316][ 38]AssetCheck: New page: Asset Save: Test4
+[2023.12.03-19.59.46:316][ 38]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Test4.Test4
+[2023.12.03-19.59.47:553][111]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-19.59.48:195][128]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_7 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.59.51:018][209]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_11 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-19.59.51:176][211]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.00.00:489][523]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.00.00:504][523]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.00.44:637][330]LogViewport: Scene viewport resized to 1858x902, mode Windowed.
+[2023.12.03-20.01.18:864][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.03-20.01.18:950][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Test4" FILE="G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.03-20.01.18:965][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.12.03-20.01.18:977][396]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.01.18:989][396]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.01.19:000][396]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.01.19:010][396]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_7 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-20.01.19:015][396]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.01.19:025][396]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.01.19:038][396]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_20 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.01.19:048][396]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.01.19:059][396]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.01.19:069][396]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_23 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.03-20.01.19:073][396]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_24 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.01.19:083][396]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_2.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.03-20.01.20:032][396]LogSavePackage: Moving output files for package: /Game/Level/Test4
+[2023.12.03-20.01.20:033][396]LogSavePackage: Moving 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Test484B9B1D74F6F5923EBFEA29875337DF4.tmp' to 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap'
+[2023.12.03-20.01.20:048][396]LogFileHelpers: Saving map 'Test4' took 1.099
+[2023.12.03-20.01.20:111][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.24 sec (total: 5.84 sec)
+[2023.12.03-20.01.20:115][396]AssetCheck: New page: Asset Save: Test4
+[2023.12.03-20.01.20:115][396]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Test4.Test4
