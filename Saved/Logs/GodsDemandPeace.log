@@ -1430,3 +1430,157 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.05-12.45.16:030][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.49 sec (total: 2.93 sec)
 [2023.12.05-12.45.16:035][275]AssetCheck: New page: Asset Save: Test4
 [2023.12.05-12.45.16:035][275]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Test4.Test4
+[2023.12.05-12.46.33:217][428]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.46.33:233][428]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.46.36:241][501]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.46.36:256][501]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.46.47:393][774]Cmd: TRANSACTION UNDO
+[2023.12.05-12.46.47:393][774]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2023.12.05-12.46.47:666][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.47:667][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.47:668][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.47:669][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.47:669][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.47:670][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.47:670][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.47:671][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.47:672][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.47:672][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.47:673][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.47:674][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.47:675][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-12.46.54:855][940]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.46.54:875][940]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.47.21:624][788]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_7 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-12.47.45:775][484]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.48.28:245][981]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:161][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-12.52.13:222][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Test4" FILE="G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.05-12.52.13:239][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.12.05-12.52.13:247][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:261][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:274][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_16 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:286][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_17 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:296][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_18 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:305][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_19 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:310][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:320][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_20 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:331][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:343][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:354][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_23 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:358][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:369][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_3 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:373][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:386][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:399][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:412][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_7 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.13:424][846]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.52.14:476][846]LogSavePackage: Moving output files for package: /Game/Level/Test4
+[2023.12.05-12.52.14:476][846]LogSavePackage: Moving 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Test41354289F4601B34B6FD40BB2A9BD42D9.tmp' to 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap'
+[2023.12.05-12.52.14:492][846]LogFileHelpers: Saving map 'Test4' took 1.271
+[2023.12.05-12.52.14:500][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.33 sec (total: 4.27 sec)
+[2023.12.05-12.52.14:511][846]AssetCheck: New page: Asset Save: Test4
+[2023.12.05-12.52.14:511][846]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Test4.Test4
+[2023.12.05-12.52.23:060][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-12.52.23:120][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Test4" FILE="G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.05-12.52.23:135][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.05-12.52.24:181][336]LogSavePackage: Moving output files for package: /Game/Level/Test4
+[2023.12.05-12.52.24:182][336]LogSavePackage: Moving 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Test403B3FC9D49CFA310C4A5B882B57EC08E.tmp' to 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap'
+[2023.12.05-12.52.24:197][336]LogFileHelpers: Saving map 'Test4' took 1.078
+[2023.12.05-12.52.24:223][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.16 sec (total: 5.43 sec)
+[2023.12.05-12.52.24:228][336]AssetCheck: New page: Asset Save: Test4
+[2023.12.05-12.52.24:228][336]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Test4.Test4
+[2023.12.05-12.56.11:209][795]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.56.11:226][795]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.56.13:783][852]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.57.18:475][ 76]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.57.26:385][307]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-12.59.54:259][735]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.00.27:103][531]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_7 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.03.15:613][ 23]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_13 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.03.43:127][768]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.03.50:642][997]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_11 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.10:863][459]Cmd: TRANSACTION UNDO
+[2023.12.05-13.04.10:864][459]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2023.12.05-13.04.10:927][459]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.10:938][459]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.10:951][459]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.11:056][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.11:057][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.11:057][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.11:058][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.11:058][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.11:059][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.11:060][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.11:060][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.11:061][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.11:061][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.11:062][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.11:063][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.11:063][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:263][554]Cmd: TRANSACTION UNDO
+[2023.12.05-13.04.13:264][554]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2023.12.05-13.04.13:306][554]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_11 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.13:312][554]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.13:324][554]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_7 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.13:331][554]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.13:406][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:407][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:407][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:408][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:409][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:409][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:410][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:410][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:411][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:411][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:412][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:413][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.13:413][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-13.04.37:342][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-13.04.37:418][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Test4" FILE="G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.05-13.04.37:434][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.12.05-13.04.37:442][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:458][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:469][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:481][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_12 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:487][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_13 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:492][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_14 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:497][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_15 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:500][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_16 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:511][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_17 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:521][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_18 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:531][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_19 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:535][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:546][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_20 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:559][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:570][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_24 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:582][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:592][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_26 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:603][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_27 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:608][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_28 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:612][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_29 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:616][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_3 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:623][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_30 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 2.0625 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:630][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_31 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:633][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:647][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:661][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:677][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.37:691][436]LogTexture: Display: Building textures: /Game/Level/Test4.Test4:PersistentLevel.Landscape_4.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.12.05-13.04.38:765][436]LogSavePackage: Moving output files for package: /Game/Level/Test4
+[2023.12.05-13.04.38:765][436]LogSavePackage: Moving 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Test473DCD8E94470255F852A578703E7F4C8.tmp' to 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap'
+[2023.12.05-13.04.38:779][436]LogFileHelpers: Saving map 'Test4' took 1.363
+[2023.12.05-13.04.38:783][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.44 sec (total: 6.88 sec)
+[2023.12.05-13.04.38:795][436]AssetCheck: New page: Asset Save: Test4
+[2023.12.05-13.04.38:795][436]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Test4.Test4
+[2023.12.05-13.05.03:255][706]LogViewport: Scene viewport resized to 1734x860, mode Windowed.
+[2023.12.05-13.05.04:763][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-13.05.04:849][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Test4" FILE="G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.05-13.05.04:864][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.12.05-13.05.05:944][786]LogSavePackage: Moving output files for package: /Game/Level/Test4
+[2023.12.05-13.05.05:945][786]LogSavePackage: Moving 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Saved/Test4983F12BD4D33D2B8F09AED9B1969C1C8.tmp' to 'G:/__DOKUMENTY/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap'
+[2023.12.05-13.05.05:961][786]LogFileHelpers: Saving map 'Test4' took 1.112
+[2023.12.05-13.05.05:968][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.20 sec (total: 8.08 sec)
+[2023.12.05-13.05.05:978][786]AssetCheck: New page: Asset Save: Test4
+[2023.12.05-13.05.05:978][786]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Test4.Test4
