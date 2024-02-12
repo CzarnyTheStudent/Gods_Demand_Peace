@@ -2951,3 +2951,1032 @@ Make sure 'Guest' has been compiled for  Initialize Dialogue
 [2024.02.12-17.21.13:674][467]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets_House/_NEW/Materials/Floor_Floor_OcclusionRoughnessMetallic.Floor_Floor_OcclusionRoughnessMetallic
 [2024.02.12-17.21.13:674][467]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets_House/_NEW/Materials/Floor_Floor_Normal.Floor_Floor_Normal
 [2024.02.12-17.21.13:674][467]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets_House/_NEW/Materials/Floor_Floor_BaseColor.Floor_Floor_BaseColor
+[2024.02.12-17.24.04:631][309]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets_House/_NEW/Materials/Floor1.Floor1
+[2024.02.12-17.24.04:644][309]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-17.24.04:644][309]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-17.24.04:816][309]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.04:817][309]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.04:817][309]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.04:828][309]LogViewport: Scene viewport resized to 192x194, mode Windowed.
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: ================================================
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Total job queries 185, among them cache hits 10 (5.41%)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Tracking 171 distinct input hashes that result in 43 distinct outputs (25.15%)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: RAM used: 3,49 MiB of 1,60 GiB budget. Usage: 0.21%
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Shaders Compiled: 32
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Jobs assigned 36, completed 32 (88.89%)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Average time worker was idle: 101.68 s
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Time job spent in pending queue: average 3.42 s, longest 28.63 s
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Job execution time: average 9.75 s, max 28.53 s
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Job life time (pending + execution): average 13.58 s, max 29.97
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.84 s
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Average processing rate: 0.78 jobs/sec
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Total thread time: 65,516 s
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Total thread preprocess time: 6,206 s
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Percentage time preprocessing: 9.47%
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Effective parallelization: 1.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 3.04 sec, max 4.67 sec, min 1.41 sec)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 2.97 sec, max 4.57 sec, min 1.38 sec)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 2.84 sec, max 4.28 sec, min 1.39 sec)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 2.83 sec, max 4.55 sec, min 1.11 sec)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 2.67 sec, max 3.88 sec, min 1.47 sec)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 9.28% of total time (compiled    2 times, average 3.04 sec, max 4.67 sec, min 1.41 sec)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 9.08% of total time (compiled    2 times, average 2.97 sec, max 4.57 sec, min 1.38 sec)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 8.66% of total time (compiled    2 times, average 2.84 sec, max 4.28 sec, min 1.39 sec)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 8.64% of total time (compiled    2 times, average 2.83 sec, max 4.55 sec, min 1.11 sec)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 8.16% of total time (compiled    2 times, average 2.67 sec, max 3.88 sec, min 1.47 sec)
+[2024.02.12-17.24.05:075][314]LogShaderCompilers: Display: ================================================
+[2024.02.12-17.24.06:239][350]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.24.06:240][350]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.06:240][350]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.06:240][350]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.24.06:358][353]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.06:358][353]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.06:358][353]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.07:478][389]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.24.07:478][389]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.07:478][389]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.07:478][389]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.24.07:631][394]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.02.12-17.24.07:631][394]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.24.07:631][394]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.12-17.24.07:631][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.07:631][394]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.24.08:180][414]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.08:180][414]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.08:180][414]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.09:626][453]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.24.09:626][453]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.09:626][453]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.09:626][453]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.24.09:815][458]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.02.12-17.24.09:815][458]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.24.09:815][458]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.12-17.24.09:815][458]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.09:815][458]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.24.10:737][481]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.10:737][481]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.24.10:737][481]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.10:737][481]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.11:586][513]MaterialEditorStats: Texture samplers: 1/16
+[2024.02.12-17.24.11:586][513]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.24.11:586][513]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.11:586][513]MaterialEditorStats: Shader Count: 1
+[2024.02.12-17.24.12:315][542]MaterialEditorStats: Base pass shader: 229 instructions
+[2024.02.12-17.24.12:315][542]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.24.12:315][542]MaterialEditorStats: Texture samplers: 5/16
+[2024.02.12-17.24.12:315][542]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.24.12:315][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.12:315][542]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.24.13:268][577]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.13:268][577]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.24.13:268][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.13:268][577]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.15:248][646]MaterialEditorStats: Base pass shader: 237 instructions
+[2024.02.12-17.24.15:248][646]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.24.15:248][646]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.12-17.24.15:248][646]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.24.15:248][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.15:248][646]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.24.16:172][685]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.16:172][685]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.24.16:172][685]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.16:172][685]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.18:542][762]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.12-17.24.18:542][762]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.24.18:542][762]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.18:542][762]MaterialEditorStats: Shader Count: 1
+[2024.02.12-17.24.19:492][799]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.19:492][799]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.24.19:492][799]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.19:492][799]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.20:308][825]MaterialEditorStats: Texture samplers: 3/16
+[2024.02.12-17.24.20:308][825]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.24.20:308][825]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.20:308][825]MaterialEditorStats: Shader Count: 1
+[2024.02.12-17.24.20:502][832]LogMaterialEditor: Applying material Floor1
+[2024.02.12-17.24.21:014][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.02.12-17.24.22:083][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.12-17.24.22:099][832]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.12-17.24.22:099][832]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.24.22:099][832]MaterialEditorStats: Texture samplers: 7/16
+[2024.02.12-17.24.22:099][832]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.24.22:099][832]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.22:099][832]MaterialEditorStats: Shader Count: 6
+[2024.02.12-17.24.22:465][846]LogMaterialEditor: Saving and Compiling material Floor1
+[2024.02.12-17.24.22:467][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-17.24.24:440][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets_House/_NEW/Materials/Floor1" FILE="C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Assets_House/_NEW/Materials/Floor1.uasset" SILENT=true
+[2024.02.12-17.24.24:442][846]LogSavePackage: Moving output files for package: /Game/Assets_House/_NEW/Materials/Floor1
+[2024.02.12-17.24.24:442][846]LogSavePackage: Moving 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Saved/Floor1C0A467DC4EE31F74E844FE9E81A8AA92.tmp' to 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Assets_House/_NEW/Materials/Floor1.uasset'
+[2024.02.12-17.24.24:448][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.98 sec (total: 41.9 sec)
+[2024.02.12-17.24.24:458][846]AssetCheck: New page: Asset Save: Floor1
+[2024.02.12-17.24.24:459][846]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets_House/_NEW/Materials/Floor1.Floor1
+[2024.02.12-17.24.24:463][846]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.12-17.24.24:463][846]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.24.24:463][846]MaterialEditorStats: MaxSampler: 305 instructions
+[2024.02.12-17.24.24:463][846]MaterialEditorStats: Texture samplers: 8/16
+[2024.02.12-17.24.24:463][846]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.24.24:463][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.24:463][846]MaterialEditorStats: Shader Count: 16
+[2024.02.12-17.24.36:225][938]LogSlate: Window 'Floor1' being destroyed
+[2024.02.12-17.24.36:237][938]LogSlate: Window 'Floor1' being destroyed
+[2024.02.12-17.24.36:251][938]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.02.12-17.24.36:251][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-17.24.37:266][980]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets_House/_NEW/Materials/Furniture_Desk+Chest.Furniture_Desk+Chest
+[2024.02.12-17.24.37:271][980]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-17.24.37:271][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-17.24.37:445][980]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.37:445][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.37:445][980]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.37:458][980]LogViewport: Scene viewport resized to 192x194, mode Windowed.
+[2024.02.12-17.24.38:589][ 15]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.24.38:589][ 15]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.38:589][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.38:589][ 15]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.24.38:659][ 18]MaterialEditorStats: Base pass shader: 227 instructions
+[2024.02.12-17.24.38:659][ 18]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.24.38:660][ 18]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.12-17.24.38:660][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.38:660][ 18]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.24.39:265][ 39]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.39:265][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.39:265][ 39]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.40:361][ 74]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.24.40:361][ 74]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.40:361][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.40:361][ 74]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.24.40:512][ 78]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.02.12-17.24.40:512][ 78]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.24.40:512][ 78]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.12-17.24.40:512][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.40:512][ 78]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.24.41:032][ 96]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.41:032][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.24.41:032][ 96]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.42:853][145]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.42:853][145]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.24.42:853][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.42:853][145]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.43:746][173]MaterialEditorStats: Texture samplers: 1/16
+[2024.02.12-17.24.43:746][173]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.24.43:746][173]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.43:746][173]MaterialEditorStats: Shader Count: 1
+[2024.02.12-17.24.44:088][183]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.24.44:088][183]MaterialEditorStats: Texture samplers: 1/16
+[2024.02.12-17.24.44:088][183]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.24.44:088][183]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.44:088][183]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.24.44:174][186]MaterialEditorStats: Base pass shader: 229 instructions
+[2024.02.12-17.24.44:174][186]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.24.44:174][186]MaterialEditorStats: Texture samplers: 5/16
+[2024.02.12-17.24.44:174][186]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.24.44:174][186]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.44:174][186]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.24.45:818][255]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.45:818][255]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.24.45:818][255]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.45:818][255]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.46:948][291]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.24.46:948][291]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.24.46:948][291]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.46:948][291]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.24.50:815][409]LogMaterialEditor: Saving and Compiling material Furniture_Desk+Chest
+[2024.02.12-17.24.51:135][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.02.12-17.24.52:460][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2024.02.12-17.24.52:473][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-17.24.54:527][409]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.02.12-17.24.54:660][409]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004469s (0.138399s overbudget)
+[2024.02.12-17.24.54:699][409]LogSavePackage: Moving output files for package: /Game/Assets_House/_NEW/Materials/Furniture_Desk+Chest
+[2024.02.12-17.24.54:699][409]LogSavePackage: Moving 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Saved/Furniture_Desk+Chest6FD3C58F48D91F56FC55C2A0DEDD5F16.tmp' to 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Assets_House/_NEW/Materials/Furniture_Desk+Chest.uasset'
+[2024.02.12-17.24.54:706][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.23 sec (total: 44.2 sec)
+[2024.02.12-17.24.54:715][409]AssetCheck: New page: Asset Save: Furniture_Desk+Chest
+[2024.02.12-17.24.54:715][409]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets_House/_NEW/Materials/Furniture_Desk+Chest.Furniture_Desk+Chest
+[2024.02.12-17.24.54:722][409]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.12-17.24.54:722][409]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.24.54:722][409]MaterialEditorStats: MaxSampler: 305 instructions
+[2024.02.12-17.24.54:722][409]MaterialEditorStats: Texture samplers: 8/16
+[2024.02.12-17.24.54:722][409]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.24.54:722][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.24.54:722][409]MaterialEditorStats: Shader Count: 16
+[2024.02.12-17.26.00:638][191]LogSlate: Window 'Furniture_Desk+Chest' being destroyed
+[2024.02.12-17.26.00:646][191]LogSlate: Window 'Furniture_Desk+Chest' being destroyed
+[2024.02.12-17.26.00:660][191]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.02.12-17.26.00:660][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-17.26.02:345][261]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets_House/_NEW/Materials/Furniture_General.Furniture_General
+[2024.02.12-17.26.02:349][261]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-17.26.02:349][261]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-17.26.02:532][261]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.02:532][261]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.02:532][261]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.26.02:544][261]LogViewport: Scene viewport resized to 192x194, mode Windowed.
+[2024.02.12-17.26.04:000][304]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.26.04:000][304]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.04:000][304]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.04:000][304]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.26.04:113][308]MaterialEditorStats: Base pass shader: 227 instructions
+[2024.02.12-17.26.04:113][308]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.26.04:113][308]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.12-17.26.04:113][308]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.04:113][308]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.26.04:323][313]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.04:323][313]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.04:323][313]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.26.05:585][349]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.26.05:585][349]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.05:585][349]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.05:585][349]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.26.05:783][355]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.02.12-17.26.05:783][355]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.26.05:784][355]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.12-17.26.05:784][355]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.05:784][355]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.26.06:891][393]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.06:891][393]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.06:891][393]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.26.08:570][434]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.26.08:570][434]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.08:570][434]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.08:570][434]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.26.09:193][450]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.09:193][450]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.26.09:193][450]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.09:193][450]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.26.11:163][510]MaterialEditorStats: Base pass shader: 229 instructions
+[2024.02.12-17.26.11:163][510]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.26.11:163][510]MaterialEditorStats: Texture samplers: 5/16
+[2024.02.12-17.26.11:163][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.26.11:163][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.11:163][510]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.26.13:298][588]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.13:298][588]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.26.13:298][588]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.13:298][588]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.26.14:476][622]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.12-17.26.14:476][622]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.26.14:476][622]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.14:476][622]MaterialEditorStats: Shader Count: 1
+[2024.02.12-17.26.14:691][628]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.26.14:691][628]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.12-17.26.14:691][628]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.26.14:691][628]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.14:691][628]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.26.14:762][630]MaterialEditorStats: Base pass shader: 237 instructions
+[2024.02.12-17.26.14:762][630]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.26.14:762][630]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.12-17.26.14:762][630]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.26.14:762][630]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.14:762][630]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.26.15:919][669]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.15:919][669]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.26.15:919][669]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.15:919][669]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.26.19:654][758]LogMaterialEditor: Applying material Furniture_General
+[2024.02.12-17.26.20:004][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.02.12-17.26.21:456][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.02.12-17.26.21:508][758]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.12-17.26.21:509][758]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.26.21:509][758]MaterialEditorStats: Texture samplers: 7/16
+[2024.02.12-17.26.21:509][758]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.26.21:509][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.21:509][758]MaterialEditorStats: Shader Count: 6
+[2024.02.12-17.26.27:113][812]LogMaterialEditor: Saving and Compiling material Furniture_General
+[2024.02.12-17.26.27:116][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-17.26.29:213][812]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.02.12-17.26.29:509][812]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001118s (0.297130s overbudget)
+[2024.02.12-17.26.29:539][812]LogSavePackage: Moving output files for package: /Game/Assets_House/_NEW/Materials/Furniture_General
+[2024.02.12-17.26.29:539][812]LogSavePackage: Moving 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Saved/Furniture_General84CDDEC7454D359783F6C88F09D9D475.tmp' to 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Assets_House/_NEW/Materials/Furniture_General.uasset'
+[2024.02.12-17.26.29:553][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.43 sec (total: 46.6 sec)
+[2024.02.12-17.26.29:561][812]AssetCheck: New page: Asset Save: Furniture_General
+[2024.02.12-17.26.29:561][812]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets_House/_NEW/Materials/Furniture_General.Furniture_General
+[2024.02.12-17.26.29:566][812]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.12-17.26.29:566][812]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.26.29:566][812]MaterialEditorStats: MaxSampler: 305 instructions
+[2024.02.12-17.26.29:566][812]MaterialEditorStats: Texture samplers: 8/16
+[2024.02.12-17.26.29:567][812]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.26.29:567][812]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.29:567][812]MaterialEditorStats: Shader Count: 16
+[2024.02.12-17.26.30:402][835]LogSlate: Window 'Furniture_General' being destroyed
+[2024.02.12-17.26.30:410][835]LogSlate: Window 'Furniture_General' being destroyed
+[2024.02.12-17.26.30:428][835]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.02.12-17.26.30:428][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-17.26.32:013][899]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets_House/_NEW/Materials/Furniture_Kitchen.Furniture_Kitchen
+[2024.02.12-17.26.32:019][899]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-17.26.32:020][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-17.26.32:236][899]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.32:236][899]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.32:236][899]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.26.32:250][899]LogViewport: Scene viewport resized to 192x194, mode Windowed.
+[2024.02.12-17.26.35:217][968]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.26.35:217][968]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.35:217][968]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.35:217][968]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.26.35:317][971]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.02.12-17.26.35:317][971]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.26.35:317][971]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.12-17.26.35:317][971]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.35:317][971]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.26.38:062][ 53]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.38:062][ 53]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.38:062][ 53]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.26.40:794][124]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.02.12-17.26.40:794][124]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.26.40:794][124]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.12-17.26.40:794][124]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.40:795][124]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.26.42:129][172]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.42:129][172]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.26.42:129][172]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.42:130][172]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.26.43:729][223]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.43:729][223]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.26.43:729][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.43:729][223]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.26.44:766][246]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.12-17.26.44:766][246]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.26.44:766][246]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.44:766][246]MaterialEditorStats: Shader Count: 1
+[2024.02.12-17.26.45:205][258]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.26.45:205][258]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.12-17.26.45:205][258]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.26.45:205][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.45:205][258]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.26.45:281][260]MaterialEditorStats: Base pass shader: 237 instructions
+[2024.02.12-17.26.45:281][260]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.26.45:281][260]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.12-17.26.45:281][260]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.26.45:281][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.45:281][260]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.26.47:343][340]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.47:343][340]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.26.47:343][340]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.47:343][340]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.26.50:985][426]LogMaterialEditor: Saving and Compiling material Furniture_Kitchen
+[2024.02.12-17.26.51:353][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2024.02.12-17.26.52:703][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.02.12-17.26.52:750][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-17.26.54:828][426]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.02.12-17.26.55:341][426]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002688s (0.516148s overbudget)
+[2024.02.12-17.26.55:389][426]LogSavePackage: Moving output files for package: /Game/Assets_House/_NEW/Materials/Furniture_Kitchen
+[2024.02.12-17.26.55:390][426]LogSavePackage: Moving 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Saved/Furniture_KitchenB8F039DB4F3F4B3A995D629A309294B6.tmp' to 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Assets_House/_NEW/Materials/Furniture_Kitchen.uasset'
+[2024.02.12-17.26.55:405][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.65 sec (total: 49.3 sec)
+[2024.02.12-17.26.55:412][426]AssetCheck: New page: Asset Save: Furniture_Kitchen
+[2024.02.12-17.26.55:412][426]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets_House/_NEW/Materials/Furniture_Kitchen.Furniture_Kitchen
+[2024.02.12-17.26.55:421][426]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.12-17.26.55:421][426]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.26.55:421][426]MaterialEditorStats: MaxSampler: 305 instructions
+[2024.02.12-17.26.55:421][426]MaterialEditorStats: Texture samplers: 8/16
+[2024.02.12-17.26.55:421][426]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.26.55:421][426]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.26.55:421][426]MaterialEditorStats: Shader Count: 16
+[2024.02.12-17.26.57:075][476]LogSlate: Window 'Furniture_Kitchen' being destroyed
+[2024.02.12-17.26.57:085][476]LogSlate: Window 'Furniture_Kitchen' being destroyed
+[2024.02.12-17.26.57:108][476]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.02.12-17.26.57:109][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-17.26.59:483][569]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets_House/_NEW/Materials/Interior.Interior
+[2024.02.12-17.26.59:489][569]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-17.26.59:489][569]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-17.26.59:719][569]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.26.59:719][569]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.26.59:719][569]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.26.59:731][569]LogViewport: Scene viewport resized to 192x194, mode Windowed.
+[2024.02.12-17.27.04:395][672]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.27.04:395][672]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.04:395][672]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.27.04:395][672]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.27.04:800][680]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.02.12-17.27.04:800][680]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.27.04:800][680]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.12-17.27.04:800][680]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.27.04:800][680]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.27.05:349][692]LogShaderCompilers: Display: ================================================
+[2024.02.12-17.27.05:349][692]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.12-17.27.05:349][692]LogShaderCompilers: Display: Total job queries 588, among them cache hits 169 (28.74%)
+[2024.02.12-17.27.05:349][692]LogShaderCompilers: Display: Tracking 404 distinct input hashes that result in 61 distinct outputs (15.10%)
+[2024.02.12-17.27.05:349][692]LogShaderCompilers: Display: RAM used: 8,28 MiB of 1,60 GiB budget. Usage: 0.51%
+[2024.02.12-17.27.05:349][692]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.12-17.27.05:349][692]LogShaderCompilers: Display: Shaders Compiled: 265
+[2024.02.12-17.27.05:349][692]LogShaderCompilers: Display: Jobs assigned 266, completed 265 (99.62%)
+[2024.02.12-17.27.05:349][692]LogShaderCompilers: Display: Average time worker was idle: 19.02 s
+[2024.02.12-17.27.05:349][692]LogShaderCompilers: Display: Time job spent in pending queue: average 0.58 s, longest 28.63 s
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: Job execution time: average 2.24 s, max 28.53 s
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: Job life time (pending + execution): average 2.82 s, max 29.97
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 105.24 s
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: Jobs were issued in 266 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: Average processing rate: 2.52 jobs/sec
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: Total thread time: 324,639 s
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: Total thread preprocess time: 14,616 s
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: Percentage time preprocessing: 4.50%
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: Effective parallelization: 3.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 1.96 sec, max 4.67 sec, min 1.15 sec)
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    6 times, average 1.92 sec, max 4.57 sec, min 1.13 sec)
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    6 times, average 1.87 sec, max 4.28 sec, min 1.11 sec)
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 1.84 sec, max 3.88 sec, min 1.13 sec)
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    6 times, average 1.80 sec, max 3.91 sec, min 1.11 sec)
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.92% of total time (compiled   55 times, average 1.35 sec, max 2.14 sec, min 0.80 sec)
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.16% of total time (compiled   56 times, average 1.23 sec, max 1.82 sec, min 0.71 sec)
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.65% of total time (compiled   41 times, average 1.00 sec, max 1.65 sec, min 0.64 sec)
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.86% of total time (compiled   41 times, average 0.78 sec, max 1.39 sec, min 0.44 sec)
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.63% of total time (compiled    6 times, average 1.96 sec, max 4.67 sec, min 1.15 sec)
+[2024.02.12-17.27.05:350][692]LogShaderCompilers: Display: ================================================
+[2024.02.12-17.27.05:883][708]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.05:883][708]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.27.05:883][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.05:883][708]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.27.06:968][740]MaterialEditorStats: Texture samplers: 1/16
+[2024.02.12-17.27.06:968][740]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.27.06:968][740]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.06:968][740]MaterialEditorStats: Shader Count: 1
+[2024.02.12-17.27.07:876][780]MaterialEditorStats: Base pass shader: 229 instructions
+[2024.02.12-17.27.07:876][780]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.27.07:876][780]MaterialEditorStats: Texture samplers: 5/16
+[2024.02.12-17.27.07:876][780]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.27.07:876][780]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.07:876][780]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.27.12:624][980]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.12:624][980]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.27.12:624][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.12:624][980]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.27.13:847][ 15]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.13:847][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.27.13:847][ 15]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.13:847][ 15]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.27.17:706][111]LogMaterialEditor: Saving and Compiling material Interior
+[2024.02.12-17.27.18:096][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.02.12-17.27.19:499][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.02.12-17.27.19:514][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-17.27.21:594][111]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.02.12-17.27.22:151][111]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000060s (0.560172s overbudget)
+[2024.02.12-17.27.22:226][111]LogSavePackage: Moving output files for package: /Game/Assets_House/_NEW/Materials/Interior
+[2024.02.12-17.27.22:226][111]LogSavePackage: Moving 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Saved/Interior3E884C8D40731B13F24C5D85B9F512F7.tmp' to 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Assets_House/_NEW/Materials/Interior.uasset'
+[2024.02.12-17.27.22:239][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.72 sec (total: 52.0 sec)
+[2024.02.12-17.27.22:248][111]AssetCheck: New page: Asset Save: Interior
+[2024.02.12-17.27.22:248][111]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets_House/_NEW/Materials/Interior.Interior
+[2024.02.12-17.27.22:257][111]MaterialEditorStats: Base pass shader: 233 instructions
+[2024.02.12-17.27.22:257][111]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.27.22:257][111]MaterialEditorStats: MaxSampler: 297 instructions
+[2024.02.12-17.27.22:257][111]MaterialEditorStats: Texture samplers: 7/16
+[2024.02.12-17.27.22:257][111]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.27.22:257][111]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.22:257][111]MaterialEditorStats: Shader Count: 16
+[2024.02.12-17.27.24:083][164]LogSlate: Window 'Interior' being destroyed
+[2024.02.12-17.27.24:094][164]LogSlate: Window 'Interior' being destroyed
+[2024.02.12-17.27.24:112][164]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.02.12-17.27.24:113][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-17.27.25:296][209]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets_House/_NEW/Materials/Roof1.Roof1
+[2024.02.12-17.27.25:301][209]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-17.27.25:302][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-17.27.25:507][209]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.25:507][209]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.27.25:507][209]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.27.25:522][209]LogViewport: Scene viewport resized to 192x194, mode Windowed.
+[2024.02.12-17.27.26:965][244]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.27.26:966][244]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.26:966][244]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.27.26:966][244]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.27.27:150][249]MaterialEditorStats: Base pass shader: 227 instructions
+[2024.02.12-17.27.27:150][249]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.27.27:150][249]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.12-17.27.27:150][249]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.27.27:150][249]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.27.28:088][273]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.28:088][273]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.27.28:089][273]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.27.32:798][379]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.32:798][379]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.27.32:798][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.32:798][379]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.27.33:054][382]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.27.33:054][382]MaterialEditorStats: Texture samplers: 1/16
+[2024.02.12-17.27.33:054][382]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.27.33:054][382]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.33:054][382]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.27.33:208][386]MaterialEditorStats: Base pass shader: 229 instructions
+[2024.02.12-17.27.33:208][386]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.27.33:208][386]MaterialEditorStats: Texture samplers: 5/16
+[2024.02.12-17.27.33:208][386]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.27.33:208][386]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.33:208][386]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.27.34:089][414]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.34:089][414]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.27.34:089][414]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.34:089][414]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.27.35:262][452]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.12-17.27.35:262][452]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.27.35:262][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.35:262][452]MaterialEditorStats: Shader Count: 1
+[2024.02.12-17.27.35:433][456]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.27.35:433][456]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.12-17.27.35:433][456]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.27.35:433][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.35:433][456]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.27.35:654][462]MaterialEditorStats: Base pass shader: 237 instructions
+[2024.02.12-17.27.35:654][462]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.27.35:654][462]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.12-17.27.35:654][462]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.27.35:654][462]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.35:654][462]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.27.36:350][485]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.36:350][485]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.27.36:350][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.36:350][485]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.27.39:559][569]LogMaterialEditor: Saving and Compiling material Roof1
+[2024.02.12-17.27.39:913][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2024.02.12-17.27.41:443][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.02.12-17.27.41:459][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-17.27.43:547][569]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.02.12-17.27.44:033][569]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002061s (0.488497s overbudget)
+[2024.02.12-17.27.44:077][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets_House/_NEW/Materials/Roof1" FILE="C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Assets_House/_NEW/Materials/Roof1.uasset" SILENT=true
+[2024.02.12-17.27.44:079][569]LogSavePackage: Moving output files for package: /Game/Assets_House/_NEW/Materials/Roof1
+[2024.02.12-17.27.44:080][569]LogSavePackage: Moving 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Saved/Roof1955074804226FADD6EC00DA69A4FD838.tmp' to 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Assets_House/_NEW/Materials/Roof1.uasset'
+[2024.02.12-17.27.44:092][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.63 sec (total: 54.6 sec)
+[2024.02.12-17.27.44:100][569]AssetCheck: New page: Asset Save: Roof1
+[2024.02.12-17.27.44:100][569]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets_House/_NEW/Materials/Roof1.Roof1
+[2024.02.12-17.27.44:109][569]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.12-17.27.44:109][569]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.27.44:109][569]MaterialEditorStats: MaxSampler: 305 instructions
+[2024.02.12-17.27.44:109][569]MaterialEditorStats: Texture samplers: 8/16
+[2024.02.12-17.27.44:109][569]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.27.44:109][569]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.44:109][569]MaterialEditorStats: Shader Count: 16
+[2024.02.12-17.27.46:549][642]LogSlate: Window 'Roof1' being destroyed
+[2024.02.12-17.27.46:562][642]LogSlate: Window 'Roof1' being destroyed
+[2024.02.12-17.27.46:583][642]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.02.12-17.27.46:583][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-17.27.49:923][782]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets_House/_NEW/Materials/Walls.Walls
+[2024.02.12-17.27.49:929][782]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-17.27.49:929][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-17.27.50:150][782]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.50:150][782]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.27.50:150][782]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.27.50:167][782]LogViewport: Scene viewport resized to 192x194, mode Windowed.
+[2024.02.12-17.27.51:626][818]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.27.51:626][818]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.51:626][818]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.27.51:626][818]MaterialEditorStats: Shader Count: 3
+[2024.02.12-17.27.51:731][821]MaterialEditorStats: Base pass shader: 227 instructions
+[2024.02.12-17.27.51:731][821]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.02.12-17.27.51:731][821]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.12-17.27.51:731][821]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.27.51:731][821]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.27.52:955][855]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.52:955][855]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.12-17.27.52:955][855]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.27.56:166][922]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.27.56:166][922]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.27.56:166][922]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.56:166][922]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.27.57:673][956]MaterialEditorStats: Texture samplers: 1/16
+[2024.02.12-17.27.57:674][956]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.27.57:674][956]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.57:674][956]MaterialEditorStats: Shader Count: 1
+[2024.02.12-17.27.58:577][998]MaterialEditorStats: Base pass shader: 229 instructions
+[2024.02.12-17.27.58:577][998]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.27.58:577][998]MaterialEditorStats: Texture samplers: 5/16
+[2024.02.12-17.27.58:577][998]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.12-17.27.58:577][998]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.27.58:577][998]MaterialEditorStats: Shader Count: 4
+[2024.02.12-17.28.00:266][ 62]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.28.00:266][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.12-17.28.00:266][ 62]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.28.00:266][ 62]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.28.01:645][ 96]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.12-17.28.01:645][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.28.01:645][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.28.01:645][ 96]MaterialEditorStats: Shader Count: 0
+[2024.02.12-17.28.05:384][191]LogMaterialEditor: Saving and Compiling material Walls
+[2024.02.12-17.28.05:713][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.02.12-17.28.07:257][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.02.12-17.28.07:272][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-17.28.09:364][191]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.02.12-17.28.09:876][191]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003081s (0.517413s overbudget)
+[2024.02.12-17.28.09:942][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets_House/_NEW/Materials/Walls" FILE="C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Assets_House/_NEW/Materials/Walls.uasset" SILENT=true
+[2024.02.12-17.28.09:945][191]LogSavePackage: Moving output files for package: /Game/Assets_House/_NEW/Materials/Walls
+[2024.02.12-17.28.09:945][191]LogSavePackage: Moving 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Saved/WallsAF04EDF94DB392EE6135B9A227372390.tmp' to 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Assets_House/_NEW/Materials/Walls.uasset'
+[2024.02.12-17.28.09:958][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.68 sec (total: 57.3 sec)
+[2024.02.12-17.28.09:966][191]AssetCheck: New page: Asset Save: Walls
+[2024.02.12-17.28.09:966][191]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets_House/_NEW/Materials/Walls.Walls
+[2024.02.12-17.28.09:974][191]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.12-17.28.09:974][191]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.02.12-17.28.09:974][191]MaterialEditorStats: MaxSampler: 305 instructions
+[2024.02.12-17.28.09:974][191]MaterialEditorStats: Texture samplers: 8/16
+[2024.02.12-17.28.09:974][191]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.02.12-17.28.09:974][191]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.12-17.28.09:974][191]MaterialEditorStats: Shader Count: 16
+[2024.02.12-17.28.12:465][263]LogSlate: Window 'Walls' being destroyed
+[2024.02.12-17.28.12:477][263]LogSlate: Window 'Walls' being destroyed
+[2024.02.12-17.28.12:494][263]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.02.12-17.28.12:494][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-17.28.19:839][601]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.12-17.28.19:839][601]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.12-17.28.21:536][671]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.12-17.28.21:536][671]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.12-17.28.21:645][671]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:242][269]Cmd: EDIT COPY
+[2024.02.12-17.28.36:411][276]Cmd: EDIT PASTE
+[2024.02.12-17.28.36:478][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:479][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:480][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:481][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:483][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:483][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:485][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:486][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:487][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:488][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:489][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:490][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:491][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:491][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:493][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:493][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:494][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:496][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:497][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:503][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.36:504][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.37:551][312]Cmd: DELETE
+[2024.02.12-17.28.37:551][312]Cmd: ACTOR DELETE
+[2024.02.12-17.28.37:644][312]LogEditorActor: Deleted Actor: PointLight
+[2024.02.12-17.28.37:702][312]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2024.02.12-17.28.37:707][312]LogEditorActor: Deleted 1 Actors (0.156 secs)
+[2024.02.12-17.28.37:725][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:660][477]Cmd: EDIT COPY
+[2024.02.12-17.28.41:814][483]Cmd: EDIT PASTE
+[2024.02.12-17.28.41:869][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:870][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:871][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:872][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:873][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:874][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:875][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:877][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:878][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:879][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:879][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:880][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:881][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:882][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:883][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:884][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:884][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:887][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:888][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:891][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.28.41:892][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.10:280][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.02.12-17.29.10:332][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.12-17.29.11:227][597]LogSlate: Window 'Save Content' being destroyed
+[2024.02.12-17.29.11:244][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-17.29.11:302][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Test4" FILE="C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.12-17.29.11:338][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.12-17.29.12:993][597]LogSavePackage: Moving output files for package: /Game/Level/Test4
+[2024.02.12-17.29.12:993][597]LogSavePackage: Moving 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Saved/Test448D83F7D4DDFC473E9B89DA6B70D2AA2.tmp' to 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap'
+[2024.02.12-17.29.13:016][597]LogFileHelpers: Saving map 'Test4' took 1.716
+[2024.02.12-17.29.13:064][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.81 sec (total: 59.1 sec)
+[2024.02.12-17.29.13:073][597]AssetCheck: New page: Asset Save: Test4
+[2024.02.12-17.29.13:073][597]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Test4.Test4
+[2024.02.12-17.29.18:039][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:039][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:041][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:041][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:042][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:043][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:043][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:044][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:045][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:045][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:046][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:047][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:048][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:048][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:050][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:051][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:052][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:053][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:053][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:096][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:097][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:974][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:976][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:976][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:977][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:978][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:978][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:980][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:981][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:982][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:983][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:984][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:984][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:985][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:986][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:987][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:988][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:989][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:989][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:990][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:990][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:991][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:992][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:997][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.18:998][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:745][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:745][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:746][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:747][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:747][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:748][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:749][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:750][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:750][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:751][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:752][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:752][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:753][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:754][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:755][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:755][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:756][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:757][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:758][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:797][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.28:798][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:573][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:574][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:574][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:575][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:576][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:577][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:577][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:578][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:578][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:579][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:580][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:581][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:582][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:583][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:583][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:584][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:585][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:586][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:586][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:587][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:588][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:591][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.29:592][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:029][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:030][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:030][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:032][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:033][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:034][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:034][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:035][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:036][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:037][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:038][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:038][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:039][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:040][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:041][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:041][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:042][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:043][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:044][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:100][262]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.31:102][262]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:462][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:463][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:522][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:523][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:599][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:601][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:645][483]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:844][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:846][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:877][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:910][492]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:911][492]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:914][492]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:916][492]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:917][492]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:921][492]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:961][493]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.36:963][493]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:163][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:190][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:191][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:192][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:193][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:221][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:221][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:223][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:225][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:261][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:263][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:465][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:466][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:467][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:513][511]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:513][511]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:515][511]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:516][511]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:517][511]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:562][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:563][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:565][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:720][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:721][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:748][518]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:750][518]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:751][518]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:752][518]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:753][518]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:784][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:785][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:787][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:788][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:971][525]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.37:971][525]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:003][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:004][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:005][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:036][527]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:038][527]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:039][527]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:040][527]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:041][527]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:043][527]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:044][527]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:213][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:215][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:216][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:247][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:248][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:249][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:250][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:251][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:297][535]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:298][535]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:299][535]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:300][535]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:467][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:468][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:470][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:471][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:513][542]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:514][542]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:516][542]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.38:545][543]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.39:308][569]LogViewport: Scene viewport resized to 374x167, mode Windowed.
+[2024.02.12-17.29.48:966][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.48:967][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.49:013][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.49:015][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.49:015][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.49:040][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.49:985][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.49:985][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.49:986][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.49:988][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.49:988][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:457][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:483][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:485][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:511][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:512][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:513][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:877][905]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:878][905]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:905][906]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:937][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:939][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:965][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:966][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:967][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:997][909]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:998][909]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.52:999][909]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:039][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:040][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:277][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:279][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:280][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:337][920]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:339][920]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:340][920]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:341][920]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:342][920]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:343][920]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:344][920]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:389][921]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:390][921]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:391][921]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:570][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:571][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:572][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:573][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:574][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:590][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:601][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:602][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:603][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:630][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:631][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:649][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:650][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:863][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:893][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:894][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:896][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:914][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:914][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:924][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:926][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:928][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:944][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:946][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:955][942]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:982][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.53:983][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:182][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:183][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:183][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:210][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:211][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:212][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:213][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:214][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:254][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:255][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:256][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:285][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:287][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:347][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:481][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:498][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:505][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:506][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:507][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:508][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:546][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:557][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:559][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:559][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:560][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:629][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.29.54:630][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.12-17.30.09:304][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2024.02.12-17.30.09:356][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.02.12-17.30.10:053][528]LogSlate: Window 'Save Content' being destroyed
+[2024.02.12-17.30.10:076][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-17.30.10:131][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Test4" FILE="C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.12-17.30.10:173][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.02.12-17.30.11:898][528]LogSavePackage: Moving output files for package: /Game/Level/Test4
+[2024.02.12-17.30.11:899][528]LogSavePackage: Moving 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Saved/Test4A6E7343649872B32D0144CA3DAF0C21F.tmp' to 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Level/Test4.umap'
+[2024.02.12-17.30.11:922][528]LogFileHelpers: Saving map 'Test4' took 1.792
+[2024.02.12-17.30.11:971][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.89 sec (total: 1:01 min)
+[2024.02.12-17.30.11:980][528]AssetCheck: New page: Asset Save: Test4
+[2024.02.12-17.30.11:980][528]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Test4.Test4
+[2024.02.12-17.31.18:395][102]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets_House/_NEW/RoofDeco.RoofDeco
+[2024.02.12-17.31.18:470][102]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-17.31.18:470][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-17.31.19:059][102]LogViewport: Scene viewport resized to 727x393, mode Windowed.
+[2024.02.12-17.31.21:993][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-17.31.22:066][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets_House/_NEW/RoofDeco" FILE="C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Assets_House/_NEW/RoofDeco.uasset" SILENT=true
+[2024.02.12-17.31.22:074][177]LogSavePackage: Moving output files for package: /Game/Assets_House/_NEW/RoofDeco
+[2024.02.12-17.31.22:074][177]LogSavePackage: Moving 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Saved/RoofDeco7D772AF24164DAD61C2319971C1A52FB.tmp' to 'C:/Users/Aleksandra/Documents/Unreal Projects/Gods_Demand_Peace/Content/Assets_House/_NEW/RoofDeco.uasset'
+[2024.02.12-17.31.22:092][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1:01 min)
+[2024.02.12-17.31.22:103][177]AssetCheck: New page: Asset Save: RoofDeco
+[2024.02.12-17.31.22:103][177]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets_House/_NEW/RoofDeco.RoofDeco
+[2024.02.12-17.31.22:766][194]LogSlate: Window 'RoofDeco' being destroyed
+[2024.02.12-17.31.22:782][194]LogSlate: Window 'RoofDeco' being destroyed
+[2024.02.12-17.31.22:830][194]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.02.12-17.31.22:830][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-17.42.18:576][520]LogViewport: Scene viewport resized to 590x261, mode Windowed.
+[2024.02.12-17.42.18:609][520]LogSlate: Took 0.005015 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.12-17.42.18:680][520]LogViewport: Scene viewport resized to 590x261, mode Windowed.
+[2024.02.12-17.42.18:710][520]LogViewport: Scene viewport resized to 590x261, mode Windowed.
+[2024.02.12-17.42.18:805][520]LogViewport: Scene viewport resized to 840x373, mode Windowed.
+[2024.02.12-17.42.18:835][521]LogViewport: Scene viewport resized to 590x261, mode Windowed.
+[2024.02.12-17.42.23:874][788]LogViewport: Scene viewport resized to 929x412, mode Windowed.
+[2024.02.12-17.42.23:900][789]LogViewport: Scene viewport resized to 1067x474, mode Windowed.
+[2024.02.12-17.42.23:926][790]LogViewport: Scene viewport resized to 1144x508, mode Windowed.
+[2024.02.12-17.42.23:952][791]LogViewport: Scene viewport resized to 1177x523, mode Windowed.
+[2024.02.12-17.42.23:978][792]LogViewport: Scene viewport resized to 1185x527, mode Windowed.
+[2024.02.12-17.42.24:681][831]LogViewport: Scene viewport resized to 757x335, mode Windowed.
+[2024.02.12-17.42.24:710][832]LogViewport: Scene viewport resized to 669x296, mode Windowed.
+[2024.02.12-17.42.24:743][833]LogViewport: Scene viewport resized to 622x275, mode Windowed.
+[2024.02.12-17.42.24:769][834]LogViewport: Scene viewport resized to 595x263, mode Windowed.
+[2024.02.12-17.42.24:809][835]LogViewport: Scene viewport resized to 590x261, mode Windowed.
+[2024.02.12-17.42.26:158][899]LogViewport: Scene viewport resized to 841x373, mode Windowed.
+[2024.02.12-17.42.26:238][900]LogViewport: Scene viewport resized to 1170x520, mode Windowed.
+[2024.02.12-17.42.26:293][901]LogViewport: Scene viewport resized to 1185x527, mode Windowed.
+[2024.02.12-17.42.37:409][470]Cmd: STAT FPS
+[2024.02.12-17.43.07:623][748]Cmd: STAT FPS
